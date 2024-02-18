@@ -1,4 +1,4 @@
-# Snake and Ladder game(C++)
+# This game is my Programming Fundamentals final project.(C++)
 Welcome to the Snake & Ladder Game project implemented in C++! 
 This readme provides a comprehensive guide to understand the project, its tools, and the game's functionality.
 
